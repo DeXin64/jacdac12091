@@ -8,9 +8,9 @@
     "jacdac": "github:microsoft/pxt-jacdac"
   },
   "files": [
-    "README.md",
-		"fwd-dial/client.ts",
-		"fwd-led/client.ts"
+    	"README.md",
+	"fwd-dial/client.ts",
+	"fwd-led/client.ts"
   ],
   "public": true,
   "supportedTargets": [
