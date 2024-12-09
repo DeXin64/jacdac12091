@@ -1,0 +1,19 @@
+{
+  "name": "fwd-edu-dial",
+  "version": "0.0.0",
+  "description": "FWD Edu Climate Action Kit Gen. 2 Dial",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "jacdac": "github:microsoft/pxt-jacdac",
+    "jacdac-rotary-encoder": "github:microsoft/pxt-jacdac/rotary-encoder"
+  },
+  "files": [
+    "README.md",
+    "client.ts"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ]
+}
